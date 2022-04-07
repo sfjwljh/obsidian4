@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "log/2022-04-06.md",
+            "file": "log/2022-04-07.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "log/2022-04-06.md",
+            "file": "log/2022-04-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -82,12 +82,12 @@
   },
   "active": "6af1c764474a79ff",
   "lastOpenFiles": [
+    "log/2022-04-07.md",
     "log/2022-04-06.md",
     "log/2022-04-27.md",
     "log/2022-04-03.md",
     "log/2022-04-20.md",
     "log/2022-04-13.md",
-    "log/2022-04-07.md",
     "log/2022-04-01.md",
     "log/2022-03-31.md",
     "log/2022-04-02.md",

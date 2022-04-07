@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "8b7aaa943e109bbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e173391793f5a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "商英三课件/U3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "af8f757d8870ef1c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "翻译页.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85b08a16a66d0490",
+    "type": "split",
+    "children": [
+      {
+        "id": "0462baa39e71769e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd0045c958b809b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e7481ba5b53dc3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "exaggerative",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a517aa92002f4660",
+    "type": "split",
+    "children": [
+      {
+        "id": "f603f8c7ba76ba97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ec838084a39d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "翻译页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af8f757d8870ef1c",
+  "lastOpenFiles": [
+    "翻译页.md",
+    "商英三课件/U3.md",
+    "U2.md",
+    "作业.md",
+    "U1.md",
+    "词典/drab.md",
+    "词典/ration.md",
+    "词典/aesthetic.md",
+    "词典/reckon.md",
+    "词典/jury.md"
+  ]
+}

@@ -1,0 +1,1 @@
+which [[confer]]s exclusive rights to the inventor

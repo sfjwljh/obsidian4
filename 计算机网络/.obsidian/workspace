@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "fb6409a6402f3541",
+    "type": "split",
+    "children": [
+      {
+        "id": "af6a5b37be702b3a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/2022-04-01.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a776bcaddce9246a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1892db8a6fa6a4cd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "bda088bd826acf81",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fe7f270432da98c3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0e687554e7617bad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b2d13f7ca49a6b79",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "课堂笔记/2022-04-01.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "99af6fc55e5f199f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "课堂笔记/2022-04-01.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "af6a5b37be702b3a",
+  "lastOpenFiles": [
+    "课堂笔记/2022-04-01.md",
+    "课件/第三章 数据链路层.pdf",
+    "课堂笔记/跳变.md",
+    "课堂笔记/碰撞.md",
+    "课堂笔记/零比特填充.md",
+    "课堂笔记/字符填充.md",
+    "课堂笔记/2022-03-17.md",
+    "课堂笔记/2022-03-25.md",
+    "课堂笔记/作业.md",
+    "课堂笔记/DMT技术.md"
+  ]
+}

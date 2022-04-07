@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "c2bbe336fd92516c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2522f861fa1d51d",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "课件/公司理财（本科生）.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "decd943df56c230f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bce970e6705e78f8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "fba5d53e1f45d4d6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "27caf537de1f40d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "249fd2be83fed6d6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "课件/公司理财（本科生）.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f2522f861fa1d51d",
+  "lastOpenFiles": [
+    "课件/公司理财（本科生）.pdf",
+    "课堂笔记/2022-04-01.md",
+    "补充条目/财务杠杆.md",
+    "课堂笔记/1.md",
+    "补充条目/利润率.md",
+    "课堂笔记/作业.md",
+    "课件/公司理财 （第3版）=CORPORATE FIE_14093222.pdf",
+    "补充条目/委托问题.md",
+    "课堂笔记/2022-03-25.md",
+    "附件/Pasted image 20220325191730.png"
+  ]
+}

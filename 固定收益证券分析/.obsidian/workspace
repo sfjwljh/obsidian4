@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "fb6409a6402f3541",
+    "type": "split",
+    "children": [
+      {
+        "id": "422fbf0451cc5a70",
+        "type": "leaf",
+        "dimension": 43.51753453772582,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/2022-04-06.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d7b1926c4147ba65",
+        "type": "leaf",
+        "dimension": 56.48246546227418,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "课件/第3章 债券定价(0404).pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ecc881458f93da",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e0813289b03851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198ba9e44e2464d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bbd9aa077bd8814",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7aca1491cc415327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d1515ddccaed53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210,
+    "collapsed": true
+  },
+  "right": {
+    "id": "586c2252513139c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "53baccd6ced41537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5e4e7ae529cbd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课堂笔记/2022-04-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f01d27a3b15aff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c62175ad92e219a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "720a53f60eeda44b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课堂笔记/2022-04-06.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "422fbf0451cc5a70",
+  "lastOpenFiles": [
+    "课堂笔记/2022-04-06.md",
+    "课件/第3章 债券定价(0404).pdf",
+    "课堂笔记/2022-03-30.md",
+    "课件/第2章 固定收益证券基础.pdf",
+    "课堂笔记/远期收益率曲线.md",
+    "课堂笔记/即期（零息债券）收益率曲线.md",
+    "课堂笔记/平价到期收益率曲线.md",
+    "课堂笔记/2022-03-23.md",
+    "课堂笔记/作业.md",
+    "课堂笔记/均衡利率.md"
+  ]
+}

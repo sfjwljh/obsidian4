@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "fb6409a6402f3541",
+    "type": "split",
+    "children": [
+      {
+        "id": "c084943f509c50d0",
+        "type": "leaf",
+        "dimension": 50.850159404888416,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "课件/04决策树与集成学习.pdf"
+          }
+        }
+      },
+      {
+        "id": "1c6f215aeebf60c0",
+        "type": "leaf",
+        "dimension": 49.149840595111584,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/2022-03-28.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ecc881458f93da",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e0813289b03851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198ba9e44e2464d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bbd9aa077bd8814",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7aca1491cc415327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d1515ddccaed53",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课件/01 回归.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210,
+    "collapsed": true
+  },
+  "right": {
+    "id": "586c2252513139c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "53baccd6ced41537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5e4e7ae529cbd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课堂笔记/2022-03-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f01d27a3b15aff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c62175ad92e219a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "720a53f60eeda44b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课堂笔记/2022-03-28.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c6f215aeebf60c0",
+  "lastOpenFiles": [
+    "课堂笔记/2022-03-28.md",
+    "课件/04决策树与集成学习.pdf",
+    "课件/03数据预处理与特征选择.pdf",
+    "课堂笔记/2022-03-21.md",
+    "课堂笔记/2022-03-14.md",
+    "课件/02模型评估.pdf",
+    "课件/01 回归.pdf",
+    "课堂笔记/1.md",
+    "查看主题.md",
+    "课堂笔记/1.md.md"
+  ]
+}

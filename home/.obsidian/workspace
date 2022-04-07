@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "cd95d128335f99da",
+    "type": "split",
+    "children": [
+      {
+        "id": "6af1c764474a79ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "log/2022-04-06.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f95e072cc8be28ee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4c125d4b8b376f5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ce53021c7aafb240",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "af2edaacbc3cd989",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d35e036a88389ff",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "log/2022-04-06.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a54c4a2d1b68d88b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "active": "6af1c764474a79ff",
+  "lastOpenFiles": [
+    "log/2022-04-06.md",
+    "log/2022-04-27.md",
+    "log/2022-04-03.md",
+    "log/2022-04-20.md",
+    "log/2022-04-13.md",
+    "log/2022-04-07.md",
+    "log/2022-04-01.md",
+    "log/2022-03-31.md",
+    "log/2022-04-02.md",
+    "log/2022-03-30.md"
+  ]
+}

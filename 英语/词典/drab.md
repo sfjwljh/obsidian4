@@ -1,0 +1,3 @@
+- syn:
+	- dull
+	- tedious

@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "fb6409a6402f3541",
+    "type": "split",
+    "children": [
+      {
+        "id": "43a04d4dee73f10e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ecc881458f93da",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e0813289b03851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198ba9e44e2464d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bbd9aa077bd8814",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7aca1491cc415327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d1515ddccaed53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210,
+    "collapsed": true
+  },
+  "right": {
+    "id": "586c2252513139c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "53baccd6ced41537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5e4e7ae529cbd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f01d27a3b15aff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c62175ad92e219a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "720a53f60eeda44b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43a04d4dee73f10e",
+  "lastOpenFiles": [
+    "课堂笔记/2022-03-15.md",
+    "课堂笔记/未命名.md",
+    "课堂笔记/2022-03-14.md",
+    "课件/02模型评估.pdf",
+    "课件/01 回归.pdf",
+    "课堂笔记/1.md",
+    "查看主题.md",
+    "课堂笔记/1.md.md",
+    "Untitled.md"
+  ]
+}

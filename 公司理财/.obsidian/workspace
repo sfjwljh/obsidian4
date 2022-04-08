@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "f2522f861fa1d51d",
+        "id": "2530911460255325",
         "type": "leaf",
+        "dimension": 28.374070138150906,
         "state": {
           "type": "pdf",
           "state": {
             "file": "课件/公司理财（本科生）.pdf"
+          }
+        }
+      },
+      {
+        "id": "b98498193bf7083c",
+        "type": "leaf",
+        "dimension": 71.6259298618491,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/2022-04-08.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -17,70 +31,86 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "decd943df56c230f",
-    "type": "mobile-drawer",
+    "id": "9bc696d6a4d35678",
+    "type": "split",
     "children": [
       {
-        "id": "bce970e6705e78f8",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "fba5d53e1f45d4d6",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "4754c91ce746149e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "239fef799abfe401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7a0f5cc820edf8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "27caf537de1f40d1",
-    "type": "mobile-drawer",
+    "id": "14260e50737c63c5",
+    "type": "split",
     "children": [
       {
-        "id": "249fd2be83fed6d6",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "课件/公司理财（本科生）.pdf",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "ef622fc4d02ca2b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "639d5e6b95e93d21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课堂笔记/2022-04-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f2522f861fa1d51d",
+  "active": "b98498193bf7083c",
   "lastOpenFiles": [
+    "课堂笔记/2022-04-08.md",
     "课件/公司理财（本科生）.pdf",
-    "课堂笔记/2022-04-01.md",
-    "补充条目/财务杠杆.md",
-    "课堂笔记/1.md",
-    "补充条目/利润率.md",
-    "课堂笔记/作业.md",
-    "课件/公司理财 （第3版）=CORPORATE FIE_14093222.pdf",
-    "补充条目/委托问题.md",
-    "课堂笔记/2022-03-25.md",
-    "附件/Pasted image 20220325191730.png"
+    "补充条目/预付账款.md",
+    "补充条目/上海资产.md",
+    "补充条目/凯乐科技.md",
+    "补充条目/东方电子.md",
+    "补充条目/ST节能.md",
+    "补充条目/华夏幸福.md",
+    "补充条目/市盈率.md",
+    "课堂笔记/2022-04-01.md"
   ]
 }

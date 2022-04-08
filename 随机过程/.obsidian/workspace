@@ -4,148 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8c111a990805fa",
+        "id": "ee3930acee932fc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "课堂笔记/作业.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
-        },
-        "group": "4a97013edab844e6"
-      },
-      {
-        "id": "7460a6913d1ede1b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课堂笔记/作业.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "4a97013edab844e6"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d5ecc881458f93da",
-    "type": "split",
+    "id": "c8da058a16ce10ff",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "83e0813289b03851",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "198ba9e44e2464d3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "3bbd9aa077bd8814",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "id": "0cfc285a9710b458",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "7aca1491cc415327",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0d1515ddccaed53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+        "id": "d10eee5448e967fe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "8d9171fc389f7eaf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 210
+    "currentTab": 0
   },
   "right": {
-    "id": "586c2252513139c4",
-    "type": "split",
+    "id": "edf524822df6597b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "53baccd6ced41537",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e5e4e7ae529cbd0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "课堂笔记/作业.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "85f01d27a3b15aff",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7c62175ad92e219a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "720a53f60eeda44b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "课堂笔记/作业.md"
-              }
-            }
+        "id": "75e6c889f6702d39",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "课堂笔记/作业.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 3
+        }
+      },
+      {
+        "id": "b9c4ef2875d806fd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "课堂笔记/作业.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "7460a6913d1ede1b",
+  "active": "ee3930acee932fc7",
   "lastOpenFiles": [
     "课堂笔记/作业.md",
     "课堂笔记/1.md",

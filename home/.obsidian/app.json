@@ -6,5 +6,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "附件"
+  "attachmentFolderPath": "附件",
+  "readableLineLength": false
 }

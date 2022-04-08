@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/2022-04-01.md",
+            "file": "课堂笔记/2022-04-08.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "e6633fdaaf678efa",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "课件/第三章 2数据链路层.pdf"
           }
         }
       }
@@ -19,82 +29,100 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a776bcaddce9246a",
-    "type": "mobile-drawer",
+    "id": "52bf604bdfbbffa5",
+    "type": "split",
     "children": [
       {
-        "id": "1892db8a6fa6a4cd",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "bda088bd826acf81",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "83f57f0255b0300e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46197d7671988945",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04b8baea853f13ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "fe7f270432da98c3",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "0e687554e7617bad",
-    "type": "mobile-drawer",
+    "id": "22b7cab6190b4ba8",
+    "type": "split",
     "children": [
       {
-        "id": "b2d13f7ca49a6b79",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "课堂笔记/2022-04-01.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "87b0632b5dbee40c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39ccdd8495245bda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课堂笔记/2022-04-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd455adc175f8e8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2eedc07902b7030d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课堂笔记/2022-04-08.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "99af6fc55e5f199f",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "课堂笔记/2022-04-01.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "af6a5b37be702b3a",
   "lastOpenFiles": [
+    "课堂笔记/2022-04-08.md",
+    "课件/第三章 2数据链路层.pdf",
     "课堂笔记/2022-04-01.md",
     "课件/第三章 数据链路层.pdf",
     "课堂笔记/跳变.md",
@@ -102,8 +130,6 @@
     "课堂笔记/零比特填充.md",
     "课堂笔记/字符填充.md",
     "课堂笔记/2022-03-17.md",
-    "课堂笔记/2022-03-25.md",
-    "课堂笔记/作业.md",
-    "课堂笔记/DMT技术.md"
+    "课堂笔记/2022-03-25.md"
   ]
 }

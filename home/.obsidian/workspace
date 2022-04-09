@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "log/2022-04-08.md",
+            "file": "临时/obsidian同步.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2022-04-08.md",
+                "file": "临时/obsidian同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "e3d01fe330b3ea81",
   "lastOpenFiles": [
+    "临时/obsidian同步.md",
     "log/2022-04-08.md",
     "log/2022-04-15.md",
     "log/2022-04-27.md",
@@ -105,7 +106,6 @@
     "log/2022-04-06.md",
     "log/2022-04-03.md",
     "log/2022-04-20.md",
-    "log/2022-04-01.md",
-    "log/2022-03-31.md"
+    "log/2022-04-01.md"
   ]
 }

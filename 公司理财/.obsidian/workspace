@@ -31,73 +31,58 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9bc696d6a4d35678",
-    "type": "split",
+    "id": "514a54288ba01c81",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4754c91ce746149e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "239fef799abfe401",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7a0f5cc820edf8d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "26f4dcbd992b69ec",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ce7756eac610cfec",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "14260e50737c63c5",
-    "type": "split",
+    "id": "19edf7e03f339c66",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ef622fc4d02ca2b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "639d5e6b95e93d21",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "课堂笔记/2022-04-08.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "ec7cc1c34fe161d3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "课堂笔记/2022-04-08.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "b98498193bf7083c",
   "lastOpenFiles": [

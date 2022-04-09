@@ -19,81 +19,66 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a299a6c10580a65",
-    "type": "split",
+    "id": "c54b399facde5ded",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a22471fcd20498ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa310bc7a0e073a7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b720c8eee21dfa02",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "9347c2c5de91ab2e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ecb323b0e8612624",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "893758a42cd2d06e",
-    "type": "split",
+    "id": "9937893639c66994",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a2a49d1b34e8cf25",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c2400c62ab114a1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "临时/obsidian同步.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "54ae000152f2fbad",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
+        "id": "3e06faa415ac1100",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "临时/obsidian同步.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "ec85e97934282bc9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "e3d01fe330b3ea81",
   "lastOpenFiles": [
